@@ -17,8 +17,10 @@ This repository is a curated collection of solutions to LeetCode problems, desig
 
 ### Folder Structure:
 
-- **`problems/`**: Contains subdirectories for each problem, named numerically or descriptively.
-  - Each problem directory includes solution files.
+- **`easy/`**: Contains subdirectories for easy difficulty level problem types, named descriptively.
+- **`medium/`**: Contains subdirectories for medium difficulty level problem types.
+- **`hard/`**: Contains subdirectories for hard difficulty level problem types.
+  - Each problem type directory includes solution files.
 
 ### Getting Started:
 
