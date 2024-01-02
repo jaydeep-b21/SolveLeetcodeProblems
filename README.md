@@ -27,4 +27,4 @@ This repository is a curated collection of solutions to LeetCode problems, desig
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SolveLeetcodeProblems.git
+   git clone https://github.com/jaydeep-b21/SolveLeetcodeProblems.git
